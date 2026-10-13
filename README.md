@@ -64,3 +64,6 @@ Se recomienda que cada integrante trabaje en una rama propia y realice commits i
 
 ### Ejecución
 Abrir `index.html` en el navegador. Para acceder al panel, iniciar sesión con `admin@megaoferta.com` y `Admin123` (si el navegador ya conserva datos de una versión anterior, borrar el almacenamiento local del sitio para reinicializarlo). Las librerías externas se cargan por CDN y requieren conexión a internet.
+
+### Finalizacion
+Se concluye con el registro de los commits individuales correspondientes a cada compañero de equipo, cumpliendo así con los términos y criterios establecidos en la rúbrica asignada por el ingeniero.
